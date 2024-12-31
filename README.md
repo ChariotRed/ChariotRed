@@ -1,12 +1,12 @@
 # 👨‍💻 Devón Barrett
 
-Welcome to my GitHub profile! I'm a passionate **software developer** with expertise in **backend systems**, **API development**, and **machine learning applications**. I enjoy building solutions that are innovative, scalable, and user-centric.
+Welcome to my GitHub profile! I'm a passionate **software developer** with expertise in **API development** and **machine learning applications**. I enjoy building & researching solutions that are innovative, scalable, and user-centric.
 
 ---
 
 ## 🚀 Tech Stack & Tools
 
-### 💡 Programming Languages
+### 💡 General-Purpose Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -46,19 +46,9 @@ Welcome to my GitHub profile! I'm a passionate **software developer** with exper
 
 ---
 
-## ✨ Fun Projects & Contributions
-
-- **Intelligent Parking App**: Built a predictive parking solution using machine learning and cloud-based storage.
-- **Social Justice Portal**: Focused on user accessibility and interface optimization.
-- **Dynamic API Frameworks**: Created robust, scalable APIs for multiple enterprise clients.
-
----
-
 ### 📬 Connect with Me
 - **Email**: [deangelo03@gmail.com](mailto:deangelo03@gmail.com)
 - **LinkedIn**: [bit.ly/Barrett-LinkedIn](https://bit.ly/Barrett-LinkedIn)
-- **GitHub Portfolio**: [bit.ly/Barrett-Portfolio](https://bit.ly/Barrett-Portfolio)
+- **Portfolio Site**: [bit.ly/Barrett-Portfolio](https://bit.ly/Barrett-Portfolio)
 
 ---
-
-*Thank you for visiting my profile! Let's build something amazing together.* 🚀
