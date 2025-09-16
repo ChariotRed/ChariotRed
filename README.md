@@ -49,6 +49,5 @@ Welcome to my GitHub profile! I'm a passionate **software developer** with exper
 ### 📬 Connect with Me
 - **Email**: [deangelo03@gmail.com](mailto:deangelo03@gmail.com)
 - **LinkedIn**: [bit.ly/Barrett-LinkedIn](https://bit.ly/Barrett-LinkedIn)
-- **Portfolio Site**: [bit.ly/Barrett-Portfolio](https://bit.ly/Barrett-Portfolio)
 
 ---
