@@ -1,6 +1,6 @@
 # Devón Barrett
 
-Welcome to my GitHub profile! I'm a passionate **software developer** with expertise in **API development** and **machine learning applications**. I enjoy building & researching solutions that are innovative, scalable, and user-centric.
+Welcome to my GitHub profile! I'm a passionate **software developer** with expertise in **API development**. I enjoy building & researching solutions that are innovative, scalable, and user-centric.
 
 ---
 
